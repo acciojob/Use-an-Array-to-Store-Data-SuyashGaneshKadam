@@ -1,1 +1,1 @@
-
+let yourArray = ["AccioJob", 10, true, 15, false];
